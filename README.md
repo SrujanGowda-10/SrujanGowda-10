@@ -6,7 +6,7 @@ I'm a BigQuery SQL Developer passionate about data and aspiring to become a full
 ## 🛠 Skills
 - **SQL**: Proficient in writing complex queries and creating views in BigQuery
 - **BigQuery**: Experienced in leveraging BigQuery for data analysis and business intelligence
-- **Data Modeling**: Familiar with creating efficient data models for analytics
+- **Python**: Familiar with Python for data manipulation and analysis
 
 ## 🌱 I'm currently learning
 - ETL (Extract, Transform, Load) processes
