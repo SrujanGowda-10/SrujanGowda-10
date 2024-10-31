@@ -9,9 +9,6 @@ I'm a BigQuery SQL Developer passionate about data and aspiring to become a full
 - **Python**: Familiar with Python for data manipulation and analysis
 - **AWS**: Experienced in leveraging AWS for ETL
 
-## 📫 How to reach me
-- Twitter: [@SrujanGowda_10](https://x.com/SrujanGowda_10) 
-
 
 ## 🤝 Open to Collaboration
 I'm always interested in collaborating on projects related to data engineering, ETL processes, or cloud-based data solutions. Feel free to reach out if you'd like to work together!
