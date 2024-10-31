@@ -1,7 +1,7 @@
 # Hello, I'm Srujan 👋
 
 ## 👨‍💻 About Me
-I'm a BigQuery SQL Developer passionate about data and aspiring to become a full-fledged Data Engineer. Currently exploring the exciting worlds of ETL processes and cloud services.
+Currently exploring the exciting worlds of ETL processes and cloud services.
 
 ## 🛠 Skills
 - **SQL**: Proficient in writing complex queries and creating views in BigQuery
