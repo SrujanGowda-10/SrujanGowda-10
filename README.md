@@ -7,11 +7,7 @@ I'm a BigQuery SQL Developer passionate about data and aspiring to become a full
 - **SQL**: Proficient in writing complex queries and creating views in BigQuery
 - **BigQuery**: Experienced in leveraging BigQuery for data analysis and business intelligence
 - **Python**: Familiar with Python for data manipulation and analysis
-
-## 🌱 I'm currently learning
-- ETL (Extract, Transform, Load) processes
-- Cloud services - AWS
-- Data engineering best practices
+- **AWS**: Experienced in leveraging AWS for ETL
 
 ## 📫 How to reach me
 - Twitter: [@SrujanGowda_10](https://x.com/SrujanGowda_10) 
