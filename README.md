@@ -4,7 +4,7 @@
 Currently exploring the exciting worlds of ETL processes and cloud services.
 
 ## 🛠 Skills
-- **SQL**: Proficient in writing complex queries and creating views in BigQuery
+- **SQL**: Proficient in writing complex queries.
 - **Cloud Technology**: Experienced in leveraging cloud data platforms GCP, AWS
 - **Python**: Familiar with Python for data manipulation and analysis
 
